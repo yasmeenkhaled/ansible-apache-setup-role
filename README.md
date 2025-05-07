@@ -1,6 +1,9 @@
 # Install_Apache Ansible Role
 
-Ansible role to install and configure Apache (httpd) web server on RHEL/CentOS systems, change its default port from **80 to 88**, and upload a test web page.
+Ansible role to install and configure Apache (httpd) web server on RHEL/CentOS systems, change its default port from **80 to 88**, and upload a test web page
+
+![image](https://github.com/user-attachments/assets/ea1a95f9-21b0-411e-bf18-6e3cdc84dd00)
+
 
 ---
 
@@ -38,19 +41,4 @@ Install_Apache/
 ```
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/<username>/ansible-apache-setup_role.git
-cd ansible-apache-setup_role
-```
-
-🔧 Variables:
-| Variable    | Default | Description                   |
-| ----------- | ------- | ----------------------------- |
-| `http_port` | `88`    | Port number Apache should use |
-
-👨‍💻 Author:
 # ansible-apache-setup-role
