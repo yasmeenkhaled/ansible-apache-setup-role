@@ -42,5 +42,3 @@ Install_Apache/
 └── .travis.yml
 ```
 ---
-
-# ansible-apache-setup-role
