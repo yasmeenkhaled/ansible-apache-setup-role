@@ -1,0 +1,6 @@
+---
+- name: Test Install_Apache role
+  hosts: all
+  become: yes
+  roles:
+    - Install_Apache
