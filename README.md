@@ -2,6 +2,8 @@
 
 Ansible role to install and configure Apache (httpd) web server on RHEL/CentOS systems, change its default port from **80 to 88**, and upload a test web page
 
+that test on ubuntu 
+
 ![image](https://github.com/user-attachments/assets/ea1a95f9-21b0-411e-bf18-6e3cdc84dd00)
 
 
